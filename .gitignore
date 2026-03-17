@@ -8,3 +8,10 @@
 
 ## front
 **/*.lock
+**/node_modules
+
+## docker
+.env
+
+## claude
+CLAUDE.md
